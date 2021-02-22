@@ -11,16 +11,6 @@ Solutions and writeups for the Tenable CTF 2021 Competition.
 |                           |                        |             | [ECDSA Implementation Review]() | [Welcome to The Friendzone]() | [Cat Taps]()              |
 |                           |                        |             |                                 |                               | [Fix Me]()                |
 
-
-
-|       Introduction       |         OSINT          |    Vidya    |             Crypto              |              Pwn              |         Forensics         |
-|---------------------------|------------------------|-------------|---------------------------------|-------------------------------|---------------------------|
-| [The T-shirt Challenge]() | [We're watching you]() | [Play me]() | [Classic Crypto]()              | [Queen's Gambit]()            | [H4ck3R_m4n exp0sed! 1]() |
-| [Intro 1]()               |                        |             | [Easy Peasy]()                  | [Gambit's Queens]()           | [H4ck3R_m4n exp0sed! 2]() |
-| [Intro 2]()               |                        |             | [Netrunner Encryption]()        | [Evening City PD]()           | [H4ck3R_m4n exp0sed! 3]() |
-|                           |                        |             | [ECDSA Implementation Review]() | [Welcome to The Friendzone]() | [Cat Taps]()              |
-|                           |                        |             |                                 |                               | [Fix Me]()                |
-
 |                   Tenable                    |        Reverse Engineering         |
 |----------------------------------------------|------------------------------------|
 | [The ultimate mutant marvel team-up]()       | [The only tool you'll ever need]() |
